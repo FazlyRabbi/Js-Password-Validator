@@ -1,0 +1,59 @@
+
+1st video
+https://drive.google.com/file/d/1ua89xZXUFJlG05RNvYuLcEtx8HckhUpy/view
+2nd video
+https://drive.google.com/file/d/1_LOvnW5zuC0fdC0Idu0Gzj2XsT-KIqG6/view
+3rd video
+https://drive.google.com/file/d/1dTK7ROSV8Ot8aj26WbBhHoC5wMK9jH1E/view\
+
+
+http://regexr.com 
+
+
+Regular Expression
+
+"." indicate all charecter without escape and  space
+"*" 0 or more charecter
+"+" 1 and more charecter
+"?" 0 and 1 optional
+"{}" -can define the count 
+"()" make group
+"[]" character set 
+
+Range 
+a-z 
+A-Z 
+0-9
+-
+\w
+\d
+\W(except Word)
+\D(except number)
+"^" --nagated set it  works like js not charecter
+^w(except word)
+^d(except number)
+^W (except number)
+^D(except word)
+\ for exsact match
+"^" start and "$" end
+
+
+(\+88)?01\d{3}-?\d{6}
+
+\w{3,5}\.\w{3,5}@\w{3,5}\.com
+
+
+write a password that 
+Password Length:
+16
+Include Symbols:( e.g. @#$% )
+Include Numbers:( e.g. 123456 )
+Include Lowercase Characters:( e.g. abcdefgh )
+Include Uppercase Characters:( e.g. ABCDEFGH )
+Exclude Similar Characters:( e.g. i, l, 1, L, o, 0, O )
+Exclude Ambiguous Characters:( { } [ ] ( ) / \ ' " ` ~ , ; : . < > )
+
+c*JtNu^Dp?LPX_9h
+
+
+/[!\@\#\$\%\^\&\(\)\_\+\,\.\;\:]/

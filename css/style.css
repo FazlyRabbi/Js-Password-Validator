@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top:100px;
+}
+span{
+    color:white;
+    background-color: green;
+}
+
+.container{
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.passBox{
+  text-align: center;
+}
+
+#masg{
+    text-transform: capitalize;
+}
+
+#button{
+text-transform: uppercase;
+}
